@@ -1,2 +1,3 @@
 # RYVTSM
-A front end Project For Rashtriya Yuva Vocational Training Saksharata Mission.
+I worked as a front-end developer For this project of Rashtriya Yuva Vocational Training Saksharata Mission.
+
